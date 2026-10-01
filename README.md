@@ -6,7 +6,7 @@
 
 I enjoy building practical AI and data-driven solutions, from machine learning experiments and semantic search to APIs and interactive software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nirodha-sandaruwani-47104127a)
 
 </div>
 
@@ -44,7 +44,7 @@ I enjoy solving real problems with AI, machine learning, data, and software — 
 <td width="50%">Semantic course-overlap review using OpenAI embeddings, cosine similarity, Streamlit, PostgreSQL and pgvector.</td>
 <td width="25%">
 <a href="https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/ai-curriculum-review-system"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=streamlit&logoColor=white"></a>
+<a href="https://app-portfolio-3rqcb8al5vq7rdmdmsguw7.streamlit.app/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=streamlit&logoColor=white"></a>
 </td>
 </tr>
 
@@ -53,7 +53,6 @@ I enjoy solving real problems with AI, machine learning, data, and software — 
 <td>Large-scale price prediction using data preprocessing, feature engineering, Random Forest and FastAPI.</td>
 <td>
 <a href="https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/used-car-price-analysis"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=googlechrome&logoColor=white"></a>
 </td>
 </tr>
 
@@ -62,7 +61,6 @@ I enjoy solving real problems with AI, machine learning, data, and software — 
 <td>NLP and deep-learning benchmark comparing BiLSTM, CNN, BiGRU, FastText-like and CNN-GRU models.</td>
 <td>
 <a href="https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/ai-vs-human-text-classification"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=googlechrome&logoColor=white"></a>
 </td>
 </tr>
 
@@ -71,7 +69,6 @@ I enjoy solving real problems with AI, machine learning, data, and software — 
 <td>Machine-learning comparison using Random Forest, SVM, k-NN, Decision Tree, GaussianNB and PCA.</td>
 <td>
 <a href="https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/voice-classification-benchmark"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=googlechrome&logoColor=white"></a>
 </td>
 </tr>
 
@@ -80,7 +77,6 @@ I enjoy solving real problems with AI, machine learning, data, and software — 
 <td>Interactive Python and Pygame visualization of A* shortest-path search, obstacles and maze generation.</td>
 <td>
 <a href="https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/astar-pathfinding-visualizer"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=googlechrome&logoColor=white"></a>
 </td>
 </tr>
 
@@ -89,7 +85,7 @@ I enjoy solving real problems with AI, machine learning, data, and software — 
 <td>Responsive vehicle-focused frontend built with HTML, CSS and JavaScript with interactive UI elements.</td>
 <td>
 <a href="https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/carnova-web-experience"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=googlechrome&logoColor=white"></a>
+<a href="https://ad9906-web-visualization-carnova.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=googlechrome&logoColor=white"></a>
 </td>
 </tr>
 
@@ -107,7 +103,6 @@ I enjoy solving real problems with AI, machine learning, data, and software — 
 <td>Software application project for organizing and managing recipe information through a structured user interface.</td>
 <td>
 <a href="https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/recipe-manager"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=googlechrome&logoColor=white"></a>
 </td>
 </tr>
 </table>
