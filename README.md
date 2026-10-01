@@ -91,7 +91,7 @@ I enjoy solving real problems with AI, machine learning, data, and software — 
 
 <tr>
 <td><b>Fuel Consumption Dashboard</b></td>
-<td>React-based dashboard for managing and visualizing vehicle fuel-consumption data.</td>
+<td>React dashboard for tracking refueling events, fuel consumption and costs using Redux Toolkit, Recharts and localStorage.</td>
 <td>
 <a href="https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/fuel-consumption-dashboard"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
 <a href="https://github-portfolio-313v.onrender.com/~ad9906/e15-consumption-monitoring/#/login"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=googlechrome&logoColor=white"></a>
@@ -100,7 +100,7 @@ I enjoy solving real problems with AI, machine learning, data, and software — 
 
 <tr>
 <td><b>Recipe Manager</b></td>
-<td>Software application project for organizing and managing recipe information through a structured user interface.</td>
+<td>Full-stack recipe management application built with Node.js, Express, MongoDB and Mongoose for browsing and managing recipes.</td>
 <td>
 <a href="https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/recipe-manager"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
 </td>
@@ -111,6 +111,6 @@ I enjoy solving real problems with AI, machine learning, data, and software — 
 
 <div align="center">
 
-### Interested in AI · Machine Learning · Data & Applied AI opportunities
+### Open to opportunities in AI · Machine Learning · Data Analytics · Applied AI
 
 </div>
