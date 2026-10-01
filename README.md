@@ -94,7 +94,7 @@ I enjoy solving real problems with AI, machine learning, data, and software — 
 <td>React-based dashboard for managing and visualizing vehicle fuel-consumption data.</td>
 <td>
 <a href="https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/fuel-consumption-dashboard"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=googlechrome&logoColor=white"></a>
+<a href="https://github-portfolio-313v.onrender.com/~ad9906/e15-consumption-monitoring/#/login"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=googlechrome&logoColor=white"></a>
 </td>
 </tr>
 
