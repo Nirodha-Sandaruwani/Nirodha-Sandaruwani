@@ -6,7 +6,7 @@
 
 I enjoy building practical AI and data-driven solutions, from machine learning experiments and semantic search to APIs and interactive software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nirodha-sandaruwani-47104127a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirodha-sandaruwani-47104127a/)
 
 </div>
 
