@@ -4,7 +4,7 @@
 
 ### AI Engineer · Applied AI · Machine Learning · Data Analytics
 
-Building practical AI and data-driven solutions — from machine learning experiments and semantic search to APIs and interactive software.
+I enjoy building practical AI and data-driven solutions, from machine learning experiments and semantic search to APIs and interactive software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirodha-sandaruwani-47104127a/)
 
@@ -23,97 +23,100 @@ I enjoy solving real problems with AI, machine learning, data, and software — 
 ## AI & Technical Stack
 
 **AI / Machine Learning**  
-`Machine Learning` · `Deep Learning` · `NLP` · `Embeddings` · `Semantic Search` · `Vector Similarity` · `OpenAI API`
+`Machine Learning` `Deep Learning` `NLP` `Embeddings` `Semantic Search` `Vector Similarity` `OpenAI API`
 
 **Data & ML Tools**  
-`Python` · `SQL` · `Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow`
+`Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `TensorFlow`
 
 **Backend & Data Systems**  
-`FastAPI` · `PostgreSQL` · `pgvector` · `Redis` · `Docker`
+`FastAPI` `PostgreSQL` `pgvector` `Redis` `Docker`
 
 **Web & Engineering**  
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `Git` · `Linux`
+`React` `Next.js` `TypeScript` `JavaScript` `Git` `Linux`
 
 ---
 
-# Selected Work
+## Projects
 
-## 01 — Applied AI & Machine Learning
-
-> NLP · embeddings · predictive modelling · model benchmarking · decision-support systems
-
-### AI Curriculum Review System
-
-Semantic course-overlap review using **OpenAI embeddings, cosine similarity, Streamlit, PostgreSQL and pgvector**.
-
-[![Repository](https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/ai-curriculum-review-system)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-2563EB?style=for-the-badge&logo=streamlit&logoColor=white)](https://app-portfolio-3rqcb8al5vq7rdmdmsguw7.streamlit.app/)
+### Applied AI & Machine Learning
+<sub>Machine learning, NLP, embeddings, predictive modelling and intelligent decision-support systems.</sub>
 
 <br>
 
-### Used Car Price Analysis
+#### AI Curriculum Review System
 
-Large-scale vehicle price prediction using **data preprocessing, feature engineering, Random Forest and FastAPI**.
+Semantic course-overlap review using OpenAI embeddings, cosine similarity, Streamlit, PostgreSQL and pgvector.
 
-[![Repository](https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/used-car-price-analysis)
-
-<br>
-
-### AI vs Human Text Classification
-
-NLP and deep-learning benchmark comparing **BiLSTM, CNN, BiGRU, FastText-like and CNN-GRU** models.
-
-[![Repository](https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/ai-vs-human-text-classification)
-
-<br>
-
-### Voice Classification Benchmark
-
-Machine-learning comparison using **Random Forest, SVM, k-NN, Decision Tree, GaussianNB and PCA**.
-
-[![Repository](https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/voice-classification-benchmark)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/ai-curriculum-review-system)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=streamlit&logoColor=white)](https://app-portfolio-3rqcb8al5vq7rdmdmsguw7.streamlit.app/)
 
 ---
 
-## 02 — Algorithms & Visual Computing
+#### Used Car Price Analysis
 
-> Algorithmic problem solving · pathfinding · interactive visualization
+Large-scale price prediction using data preprocessing, feature engineering, Random Forest and FastAPI.
 
-### A* Pathfinding Visualizer
-
-Interactive **Python and Pygame** visualization of A* shortest-path search, obstacles and maze generation.
-
-[![Repository](https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/astar-pathfinding-visualizer)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/used-car-price-analysis)
 
 ---
 
-## 03 — Product & Full-Stack Engineering
+#### AI vs Human Text Classification
 
-> Frontend systems · application logic · data handling · interactive user experiences
+NLP and deep-learning benchmark comparing BiLSTM, CNN, BiGRU, FastText-like and CNN-GRU models.
 
-### Fuel Consumption Dashboard
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/ai-vs-human-text-classification)
 
-React dashboard for tracking refueling events, fuel consumption and costs using **Redux Toolkit, Recharts and localStorage**.
+---
 
-[![Repository](https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/fuel-consumption-dashboard)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github-portfolio-313v.onrender.com/~ad9906/e15-consumption-monitoring/#/login)
+#### Voice Classification Benchmark
 
-<br>
+Machine-learning comparison using Random Forest, SVM, k-NN, Decision Tree, GaussianNB and PCA.
 
-### Recipe Manager
-
-Full-stack recipe management application built with **Node.js, Express, MongoDB and Mongoose** for browsing and managing recipes.
-
-[![Repository](https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/recipe-manager)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/voice-classification-benchmark)
 
 <br>
 
-### CarNova Web Experience
+### Algorithms & Interactive Computing
+<sub>Interactive implementations focused on algorithms, problem solving and visualization.</sub>
 
-Responsive vehicle-focused frontend built with **HTML, CSS and JavaScript** with interactive UI elements.
+<br>
 
-[![Repository](https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/carnova-web-experience)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ad9906-web-visualization-carnova.onrender.com/)
+#### A* Pathfinding Visualizer
+
+Interactive Python and Pygame visualization of A* shortest-path search, obstacles and maze generation.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/astar-pathfinding-visualizer)
+
+<br>
+
+### Web & Full-Stack Applications
+<sub>Practical applications combining frontend development, data handling and interactive user experiences.</sub>
+
+<br>
+
+#### CarNova Web Experience
+
+Responsive vehicle-focused frontend built with HTML, CSS and JavaScript with interactive UI elements.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/carnova-web-experience)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://ad9906-web-visualization-carnova.onrender.com/)
+
+---
+
+#### Fuel Consumption Dashboard
+
+React dashboard for tracking refueling events, fuel consumption and costs using Redux Toolkit, Recharts and localStorage.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/fuel-consumption-dashboard)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=googlechrome&logoColor=white)](https://github-portfolio-313v.onrender.com/~ad9906/e15-consumption-monitoring/#/login)
+
+---
+
+#### Recipe Manager
+
+Full-stack recipe management application built with Node.js, Express, MongoDB and Mongoose for browsing and managing recipes.
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/recipe-manager)
 
 ---
 
