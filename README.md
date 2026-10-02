@@ -4,51 +4,61 @@
 
 ### AI Engineer · Applied AI · Machine Learning · Data Analytics
 
-**I build practical AI and data-driven systems — from machine learning experiments and semantic search to APIs and interactive applications.**
+**Building practical AI and data-driven systems — from experimentation and semantic search to APIs and interactive applications.**
 
 <br>
 
+![Applied AI](https://img.shields.io/badge/Applied_AI-111827?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-111827?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-111827?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-111827?style=for-the-badge)
+
+<br><br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirodha-sandaruwani-47104127a/)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio)
 
 </div>
 
-<br>
+---
 
 ## About
 
 I am an **ICT Engineering graduate** specialized in **Artificial Intelligence and Data Analytics** at JAMK University of Applied Sciences.
 
-My work sits between experimentation and implementation: understanding a problem, testing what works, documenting decisions, and turning useful results into something people can actually use.
+My work sits between **analysis and implementation**: understanding the problem, testing what works, documenting decisions, and turning useful results into something people can actually use.
 
-<br>
+> I am especially interested in applied AI, machine learning, semantic search, data-driven systems, and practical AI products.
 
-## Tech I Work With
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,postgres,redis,docker,react,nextjs,ts,js,git,linux&perline=11" alt="Technology icons" />
+## Technology
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,postgres,redis,docker,react,nextjs,ts,js,git,linux&perline=11" alt="Core technology stack" />
 </p>
 
-**AI & Machine Learning**  
+<div align="center">
+
+**AI / ML**  
 Machine Learning · Deep Learning · NLP · Embeddings · Semantic Search · Vector Similarity · OpenAI API
 
-**Data & ML**  
-Python · SQL · Pandas · NumPy · Scikit-learn · TensorFlow
+**Data & Backend**  
+Python · SQL · Pandas · NumPy · Scikit-learn · FastAPI · PostgreSQL · pgvector · Redis
 
-**Backend & Data Systems**  
-FastAPI · PostgreSQL · pgvector · Redis · Docker
+**Engineering**  
+Docker · React · Next.js · TypeScript · JavaScript · Git · Linux
 
-**Web & Engineering**  
-React · Next.js · TypeScript · JavaScript · Git · Linux
+</div>
 
-<br>
+---
 
 # Featured Work
 
 ## AI Curriculum Review System
+`Applied AI` `Embeddings` `Semantic Search` `pgvector`
 
-**Semantic similarity for curriculum-overlap review**
-
-A thesis-based AI system for identifying potentially overlapping university courses using OpenAI embeddings, cosine similarity, Streamlit, PostgreSQL and pgvector. Designed as **decision support for human review**, not automated decision-making.
+A thesis-based AI system for identifying potentially overlapping university courses using **OpenAI embeddings, cosine similarity, Streamlit, PostgreSQL and pgvector**. Built as decision support for human review.
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/ai-curriculum-review-system)
 [![Open Live Demo](https://img.shields.io/badge/Open_Live_Demo-2563EB?style=for-the-badge&logo=streamlit&logoColor=white)](https://app-portfolio-3rqcb8al5vq7rdmdmsguw7.streamlit.app/)
@@ -56,56 +66,77 @@ A thesis-based AI system for identifying potentially overlapping university cour
 <br>
 
 ## Used Car Price Analysis
+`Machine Learning` `Feature Engineering` `Random Forest` `FastAPI`
 
-**Large-scale machine-learning price prediction**
-
-An end-to-end data and ML project covering preprocessing, feature engineering, model development and API integration, with Random Forest used for final price prediction.
+An end-to-end data and ML project covering **large-scale preprocessing, feature engineering, model development and API integration** for used-car price prediction.
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/used-car-price-analysis)
 
 <br>
 
 ## AI vs Human Text Classification
+`NLP` `Deep Learning` `Model Benchmarking`
 
-**NLP and deep-learning model benchmarking**
-
-A text-classification study comparing BiLSTM, CNN, BiGRU, FastText-like and CNN-GRU approaches for distinguishing AI-generated and human-written text.
+A text-classification study comparing **BiLSTM, CNN, BiGRU, FastText-like and CNN-GRU** approaches for distinguishing AI-generated and human-written text.
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/ai-vs-human-text-classification)
 
 <br>
 
-# More Work
+## Voice Classification Benchmark
+`Machine Learning` `PCA` `Model Comparison`
 
-### Voice Classification Benchmark
-Machine-learning comparison using Random Forest, SVM, k-NN, Decision Tree, GaussianNB and PCA.  
+A machine-learning benchmark comparing **Random Forest, SVM, k-NN, Decision Tree and GaussianNB**, with PCA-based analysis.
+
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/voice-classification-benchmark)
 
-### A* Pathfinding Visualizer
-Interactive Python and Pygame visualization of A* shortest-path search, obstacles and maze generation.  
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/astar-pathfinding-visualizer)
+---
 
-### Fuel Consumption Dashboard
-React dashboard for tracking refueling events, fuel consumption and costs using Redux Toolkit, Recharts and localStorage.  
+# Engineering Projects
+
+## Fuel Consumption Dashboard
+`React` `Redux Toolkit` `Recharts` `Vite`
+
+Interactive fuel-tracking dashboard for recording refueling events, monitoring consumption and visualizing vehicle costs.
+
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/fuel-consumption-dashboard)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github-portfolio-313v.onrender.com/~ad9906/e15-consumption-monitoring/#/login)
-
-### Recipe Manager
-Full-stack recipe management application built with Node.js, Express, MongoDB and Mongoose.  
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/recipe-manager)
-
-### CarNova Web Experience
-Responsive vehicle-focused frontend built with HTML, CSS and JavaScript.  
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/carnova-web-experience)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ad9906-web-visualization-carnova.onrender.com/)
+[![Open Live Demo](https://img.shields.io/badge/Open_Live_Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github-portfolio-313v.onrender.com/~ad9906/e15-consumption-monitoring/#/login)
 
 <br>
+
+## A* Pathfinding Visualizer
+`Python` `Pygame` `Algorithms`
+
+Interactive visualization of **A* shortest-path search**, obstacles and maze generation.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/astar-pathfinding-visualizer)
+
+<br>
+
+## Recipe Manager
+`Node.js` `Express` `MongoDB` `Mongoose`
+
+Full-stack recipe management application for browsing, searching and managing recipe information.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/recipe-manager)
+
+<br>
+
+## CarNova Web Experience
+`HTML` `CSS` `JavaScript`
+
+Responsive vehicle-focused frontend with interactive UI elements and a polished visual experience.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/carnova-web-experience)
+[![Open Live Demo](https://img.shields.io/badge/Open_Live_Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ad9906-web-visualization-carnova.onrender.com/)
 
 ---
 
 <div align="center">
 
 ### Open to opportunities in AI · Applied AI · Machine Learning · Data Analytics
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirodha-sandaruwani-47104127a/)
 
