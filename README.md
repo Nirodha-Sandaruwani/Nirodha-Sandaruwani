@@ -38,7 +38,12 @@ I enjoy solving real problems with AI, machine learning, data, and software — 
 
 ## Projects
 
-### 🧠 AI Curriculum Review System
+### Applied AI & Machine Learning
+<sub>Machine learning, NLP, embeddings, predictive modelling and intelligent decision-support systems.</sub>
+
+<br>
+
+#### AI Curriculum Review System
 
 Semantic course-overlap review using OpenAI embeddings, cosine similarity, Streamlit, PostgreSQL and pgvector.
 
@@ -47,7 +52,7 @@ Semantic course-overlap review using OpenAI embeddings, cosine similarity, Strea
 
 ---
 
-### 🚗 Used Car Price Analysis
+#### Used Car Price Analysis
 
 Large-scale price prediction using data preprocessing, feature engineering, Random Forest and FastAPI.
 
@@ -55,7 +60,7 @@ Large-scale price prediction using data preprocessing, feature engineering, Rand
 
 ---
 
-### ✍️ AI vs Human Text Classification
+#### AI vs Human Text Classification
 
 NLP and deep-learning benchmark comparing BiLSTM, CNN, BiGRU, FastText-like and CNN-GRU models.
 
@@ -63,23 +68,33 @@ NLP and deep-learning benchmark comparing BiLSTM, CNN, BiGRU, FastText-like and 
 
 ---
 
-### 🎙️ Voice Classification Benchmark
+#### Voice Classification Benchmark
 
 Machine-learning comparison using Random Forest, SVM, k-NN, Decision Tree, GaussianNB and PCA.
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/voice-classification-benchmark)
 
----
+<br>
 
-### 🧭 A* Pathfinding Visualizer
+### Algorithms & Interactive Computing
+<sub>Interactive implementations focused on algorithms, problem solving and visualization.</sub>
+
+<br>
+
+#### A* Pathfinding Visualizer
 
 Interactive Python and Pygame visualization of A* shortest-path search, obstacles and maze generation.
 
 [![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nirodha-Sandaruwani/GitHub-Portfolio/tree/main/astar-pathfinding-visualizer)
 
----
+<br>
 
-### 🚘 CarNova Web Experience
+### Web & Full-Stack Applications
+<sub>Practical applications combining frontend development, data handling and interactive user experiences.</sub>
+
+<br>
+
+#### CarNova Web Experience
 
 Responsive vehicle-focused frontend built with HTML, CSS and JavaScript with interactive UI elements.
 
@@ -88,7 +103,7 @@ Responsive vehicle-focused frontend built with HTML, CSS and JavaScript with int
 
 ---
 
-### ⛽ Fuel Consumption Dashboard
+#### Fuel Consumption Dashboard
 
 React dashboard for tracking refueling events, fuel consumption and costs using Redux Toolkit, Recharts and localStorage.
 
@@ -97,7 +112,7 @@ React dashboard for tracking refueling events, fuel consumption and costs using 
 
 ---
 
-### 🍳 Recipe Manager
+#### Recipe Manager
 
 Full-stack recipe management application built with Node.js, Express, MongoDB and Mongoose for browsing and managing recipes.
 
