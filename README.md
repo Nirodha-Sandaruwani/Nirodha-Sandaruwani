@@ -140,23 +140,55 @@ Responsive vehicle-focused frontend built with **HTML, CSS and JavaScript**, wit
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
 
-<img height="180"
-src="https://github-stats-extended.vercel.app/api?username=Nirodha-Sandaruwani&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=transparent"
-alt="Nirodha Sandaruwani GitHub statistics" />
+<table>
+<tr>
 
-<img height="180"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nirodha-Sandaruwani&layout=compact&langs_count=8&hide=Jupyter%20Notebook&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent&custom_title=Public%20Repo%20Languages"
-alt="Nirodha Sandaruwani public repository languages" />
+<td width="50%" align="center">
+
+<img width="100%"
+src="https://streak-stats.demolab.com?user=Nirodha-Sandaruwani&hide_border=true&background=0F172A&border=312E81&ring=7C3AED&fire=7C3AED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C4B5FD&sideLabels=E5E7EB&dates=94A3B8"
+alt="GitHub contribution streak" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img width="100%"
+src="https://github-stats-extended.vercel.app/api?username=Nirodha-Sandaruwani&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=0F172A&title_color=C4B5FD&text_color=E5E7EB&icon_color=7C3AED"
+alt="GitHub statistics" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="40%" align="center">
+
+<img width="100%"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nirodha-Sandaruwani&layout=compact&langs_count=8&hide=Jupyter%20Notebook&hide_border=true&bg_color=0F172A&title_color=C4B5FD&text_color=E5E7EB&custom_title=Programming%20Languages"
+alt="Programming languages used in public repositories" />
+
+</td>
+
+<td width="60%" align="center">
+
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Nirodha-Sandaruwani&bg_color=0F172A&color=C4B5FD&line=7C3AED&point=FFFFFF&area_color=312E81&area=true&hide_border=true&custom_title=Contribution%20Activity"
+alt="GitHub contribution activity graph" />
+
+</td>
+
+</tr>
+</table>
+
+<sub>Generated from my public GitHub activity. Jupyter Notebook is excluded from the language card so the underlying programming languages are easier to see.</sub>
 
 </div>
-
-<p align="center">
-<sub>Statistics are generated from my public GitHub repositories. Jupyter Notebook is excluded from the language card so the underlying programming languages are easier to see.</sub>
-</p>
 
 ---
 
