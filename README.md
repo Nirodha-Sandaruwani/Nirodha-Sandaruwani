@@ -145,6 +145,7 @@ Responsive vehicle-focused frontend built with **HTML, CSS and JavaScript**, wit
 <div align="center">
 
 <table>
+
 <tr>
 
 <td width="50%" align="center">
@@ -167,23 +168,24 @@ alt="GitHub account statistics" />
 
 <tr>
 
-<td width="40%" align="center">
+<td width="50%" align="center">
 
 <img width="100%"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nirodha-Sandaruwani&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9&custom_title=Most%20Used%20Languages"
-alt="Most used languages" />
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nirodha-Sandaruwani&layout=compact&langs_count=8&card_width=420&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9&custom_title=Programming%20Languages"
+alt="Programming languages" />
 
 </td>
 
-<td width="60%" align="center">
+<td width="50%" align="center">
 
 <img width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nirodha-Sandaruwani&theme=github_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nirodha-Sandaruwani&theme=github_dark&title_color=C4B5FD&text_color=C9D1D9&bg_color=0D1117&border_color=0D1117&icon_color=7C3AED&chart_color=7C3AED"
 alt="GitHub profile activity summary" />
 
 </td>
 
 </tr>
+
 </table>
 
 <sub>
