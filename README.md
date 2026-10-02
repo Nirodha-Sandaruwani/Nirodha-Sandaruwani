@@ -140,59 +140,23 @@ Responsive vehicle-focused frontend built with **HTML, CSS and JavaScript**, wit
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<table>
+<img height="180"
+src="https://github-stats-extended.vercel.app/api?username=Nirodha-Sandaruwani&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=transparent"
+alt="Nirodha Sandaruwani GitHub statistics" />
 
-<tr>
-
-<td width="50%" align="center">
-
-<img width="100%"
-src="https://streak-stats.demolab.com?user=Nirodha-Sandaruwani&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C4B5FD&sideLabels=C9D1D9&dates=8B949E"
-alt="GitHub contribution streak" />
-
-</td>
-
-<td width="50%" align="center">
-
-<img width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nirodha-Sandaruwani&theme=github_dark&title_color=C4B5FD&text_color=C9D1D9&bg_color=0D1117&border_color=0D1117&icon_color=7C3AED&hide_logo=true"
-alt="GitHub account statistics" />
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-<img width="100%"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nirodha-Sandaruwani&layout=compact&langs_count=8&card_width=420&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9&custom_title=Programming%20Languages"
-alt="Programming languages" />
-
-</td>
-
-<td width="50%" align="center">
-
-<img width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nirodha-Sandaruwani&theme=github_dark&title_color=C4B5FD&text_color=C9D1D9&bg_color=0D1117&border_color=0D1117&icon_color=7C3AED&chart_color=7C3AED"
-alt="GitHub profile activity summary" />
-
-</td>
-
-</tr>
-
-</table>
-
-<sub>
-Automatically generated from my public GitHub activity and repositories.
-</sub>
+<img height="180"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nirodha-Sandaruwani&layout=compact&langs_count=8&hide=Jupyter%20Notebook&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent&custom_title=Public%20Repo%20Languages"
+alt="Nirodha Sandaruwani public repository languages" />
 
 </div>
+
+<p align="center">
+<sub>Statistics are generated from my public GitHub repositories. Jupyter Notebook is excluded from the language card so the underlying programming languages are easier to see.</sub>
+</p>
 
 ---
 
