@@ -167,19 +167,19 @@ alt="GitHub account statistics" />
 
 <tr>
 
-<td width="42%" align="center">
+<td width="40%" align="center">
 
 <img width="100%"
 src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nirodha-Sandaruwani&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9&custom_title=Most%20Used%20Languages"
-alt="Most used languages across public repositories" />
+alt="Most used languages" />
 
 </td>
 
-<td width="58%" align="center">
+<td width="60%" align="center">
 
 <img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Nirodha-Sandaruwani&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=FFFFFF&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity"
-alt="GitHub contribution activity graph" />
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nirodha-Sandaruwani&theme=github_dark"
+alt="GitHub profile activity summary" />
 
 </td>
 
@@ -188,7 +188,6 @@ alt="GitHub contribution activity graph" />
 
 <sub>
 Automatically generated from my public GitHub activity and repositories.
-Language percentages reflect GitHub-detected repository content and may differ from my overall professional technology experience.
 </sub>
 
 </div>
