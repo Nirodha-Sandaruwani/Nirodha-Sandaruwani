@@ -150,7 +150,7 @@ Responsive vehicle-focused frontend built with **HTML, CSS and JavaScript**, wit
 <td width="50%" align="center">
 
 <img width="100%"
-src="https://streak-stats.demolab.com?user=Nirodha-Sandaruwani&hide_border=true&background=0F172A&border=312E81&ring=7C3AED&fire=7C3AED&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C4B5FD&sideLabels=E5E7EB&dates=94A3B8"
+src="https://streak-stats.demolab.com?user=Nirodha-Sandaruwani&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C4B5FD&sideLabels=C9D1D9&dates=8B949E"
 alt="GitHub contribution streak" />
 
 </td>
@@ -158,8 +158,8 @@ alt="GitHub contribution streak" />
 <td width="50%" align="center">
 
 <img width="100%"
-src="https://github-stats-extended.vercel.app/api?username=Nirodha-Sandaruwani&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=0F172A&title_color=C4B5FD&text_color=E5E7EB&icon_color=7C3AED"
-alt="GitHub statistics" />
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nirodha-Sandaruwani&theme=github_dark&title_color=C4B5FD&text_color=C9D1D9&bg_color=0D1117&border_color=0D1117&icon_color=7C3AED&hide_logo=true"
+alt="GitHub account statistics" />
 
 </td>
 
@@ -170,23 +170,25 @@ alt="GitHub statistics" />
 <td width="40%" align="center">
 
 <img width="100%"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nirodha-Sandaruwani&layout=compact&langs_count=8&hide=Jupyter%20Notebook&hide_border=true&bg_color=0F172A&title_color=C4B5FD&text_color=E5E7EB&custom_title=Programming%20Languages"
-alt="Programming languages used in public repositories" />
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nirodha-Sandaruwani&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9&custom_title=Most%20Used%20Languages"
+alt="Most used languages" />
 
 </td>
 
 <td width="60%" align="center">
 
 <img width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=Nirodha-Sandaruwani&bg_color=0F172A&color=C4B5FD&line=7C3AED&point=FFFFFF&area_color=312E81&area=true&hide_border=true&custom_title=Contribution%20Activity"
-alt="GitHub contribution activity graph" />
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nirodha-Sandaruwani&theme=github_dark"
+alt="GitHub profile activity summary" />
 
 </td>
 
 </tr>
 </table>
 
-<sub>Generated from my public GitHub activity. Jupyter Notebook is excluded from the language card so the underlying programming languages are easier to see.</sub>
+<sub>
+Automatically generated from my public GitHub activity and repositories.
+</sub>
 
 </div>
 
