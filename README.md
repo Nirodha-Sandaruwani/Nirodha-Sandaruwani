@@ -140,21 +140,17 @@ Responsive vehicle-focused frontend built with **HTML, CSS and JavaScript**, wit
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
 
-<img height="180"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nirodha-Sandaruwani&layout=compact&langs_count=8&hide_border=true&theme=transparent&custom_title=Programming%20Languages"
-alt="Programming languages across public repositories" />
+<img width="100%"
+src="https://raw.githubusercontent.com/Nirodha-Sandaruwani/GitHub-Portfolio/main/profile-stats/github-stats.svg"
+alt="Nirodha Sandaruwani GitHub statistics" />
+
+<sub>Automatically generated from my public GitHub activity and repositories.</sub>
 
 </div>
-
-<p align="center">
-<sub>
-Language statistics are generated automatically from my public GitHub repositories.
-</sub>
-</p>
 
 ---
 
