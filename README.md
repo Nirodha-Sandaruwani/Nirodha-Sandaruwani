@@ -140,23 +140,62 @@ Responsive vehicle-focused frontend built with **HTML, CSS and JavaScript**, wit
 
 ---
 
-## GitHub Activity
+## GitHub Stats
 
 <div align="center">
 
-<img height="180"
-src="https://github-stats-extended.vercel.app/api?username=Nirodha-Sandaruwani&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=transparent"
-alt="Nirodha Sandaruwani GitHub statistics" />
+<table>
+<tr>
+<td width="50%" align="center">
 
-<img height="180"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nirodha-Sandaruwani&layout=compact&langs_count=8&hide=Jupyter%20Notebook&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent&custom_title=Public%20Repo%20Languages"
-alt="Nirodha Sandaruwani public repository languages" />
+<img
+  width="100%"
+  src="https://streak-stats.demolab.com?user=Nirodha-Sandaruwani&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=C4B5FD"
+  alt="GitHub Streak"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+  width="100%"
+  src="https://github-readme-stats.vercel.app/api?username=Nirodha-Sandaruwani&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=transparent&title_color=C4B5FD&icon_color=8B5CF6"
+  alt="GitHub Stats"
+/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+<img
+  width="100%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirodha-Sandaruwani&layout=compact&langs_count=6&hide=Jupyter%20Notebook&hide_border=true&theme=transparent&title_color=C4B5FD"
+  alt="Programming Languages"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Nirodha-Sandaruwani&bg_color=00000000&color=C4B5FD&line=8B5CF6&point=C4B5FD&hide_border=true&area=false"
+  alt="GitHub Contribution Graph"
+/>
+
+</td>
+</tr>
+</table>
+
+<sub>
+Automatically generated from my public GitHub activity and repositories.
+Jupyter Notebook is excluded from the language card so the underlying programming languages are easier to see.
+</sub>
 
 </div>
-
-<p align="center">
-<sub>Statistics are generated from my public GitHub repositories. Jupyter Notebook is excluded from the language card so the underlying programming languages are easier to see.</sub>
-</p>
 
 ---
 
