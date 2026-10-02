@@ -158,7 +158,7 @@ alt="GitHub contribution streak" />
 <td width="50%" align="center">
 
 <img width="100%"
-src="https://github-stats-extended.vercel.app/api?username=Nirodha-Sandaruwani&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9&icon_color=7C3AED"
+src="https://github-stats-extended.vercel.app/api?username=Nirodha-Sandaruwani&show_icons=true&hide=commits&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9&icon_color=7C3AED"
 alt="GitHub account statistics" />
 
 </td>
