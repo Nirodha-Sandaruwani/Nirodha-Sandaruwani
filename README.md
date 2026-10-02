@@ -1,3 +1,41 @@
+<div align="center">
+
+# Nirodha Sandaruwani
+
+### AI Engineer · Applied AI · Machine Learning · Data Analytics
+
+I enjoy building practical AI and data-driven solutions, from machine learning experiments and semantic search to APIs and interactive software.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirodha-sandaruwani-47104127a/)
+
+</div>
+
+---
+
+## About Me
+
+I am an ICT Engineering graduate specialized in **Artificial Intelligence and Data Analytics** at JAMK University of Applied Sciences.
+
+I enjoy solving real problems with AI, machine learning, data, and software — especially when I can turn experiments into something practical and useful.
+
+---
+
+## AI & Technical Stack
+
+**AI / Machine Learning**  
+`Machine Learning` `Deep Learning` `NLP` `Embeddings` `Semantic Search` `Vector Similarity` `OpenAI API`
+
+**Data & ML Tools**  
+`Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `TensorFlow`
+
+**Backend & Data Systems**  
+`FastAPI` `PostgreSQL` `pgvector` `Redis` `Docker`
+
+**Web & Engineering**  
+`React` `Next.js` `TypeScript` `JavaScript` `Git` `Linux`
+
+---
+
 ## Projects
 
 ### 🧠 AI Curriculum Review System
