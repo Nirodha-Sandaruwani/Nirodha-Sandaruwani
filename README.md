@@ -178,7 +178,7 @@ alt="Most used languages" />
 <td width="60%" align="center">
 
 <img width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nirodha-Sandaruwani&theme=github_dark"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nirodha-Sandaruwani&theme=github_dark&title_color=C4B5FD&text_color=C9D1D9&bg_color=0D1117&border_color=0D1117&icon_color=7C3AED&chart_color=7C3AED"
 alt="GitHub profile activity summary" />
 
 </td>
