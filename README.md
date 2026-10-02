@@ -4,7 +4,7 @@
 
 <br>
 
-**Building practical AI and data-driven systems — from machine learning experiments and semantic search to APIs and interactive applications.**
+**Building practical AI and data-driven systems - from machine learning experiments and semantic search to APIs and interactive applications.**
 
 <br>
 
@@ -144,11 +144,19 @@ Responsive vehicle-focused frontend built with **HTML, CSS and JavaScript**, wit
 
 <div align="center">
 
-<img height="180" src="https://github-stats-extended.vercel.app/api?username=Nirodha-Sandaruwani&show_icons=true&theme=transparent&hide_border=true" alt="Nirodha Sandaruwani GitHub stats" />
+<img height="180"
+src="https://github-stats-extended.vercel.app/api?username=Nirodha-Sandaruwani&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=transparent"
+alt="Nirodha Sandaruwani GitHub statistics" />
+
+<img height="180"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nirodha-Sandaruwani&layout=compact&langs_count=8&hide=Jupyter%20Notebook&size_weight=0.5&count_weight=0.5&hide_border=true&theme=transparent&custom_title=Public%20Repo%20Languages"
+alt="Nirodha Sandaruwani public repository languages" />
 
 </div>
 
-> Public GitHub statistics are only one part of the picture; my selected projects above provide the best overview of my AI, data and software work.
+<p align="center">
+<sub>Statistics are generated from my public GitHub repositories. Jupyter Notebook is excluded from the language card so the underlying programming languages are easier to see.</sub>
+</p>
 
 ---
 
