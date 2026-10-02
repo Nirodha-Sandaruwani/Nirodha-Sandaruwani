@@ -145,54 +145,51 @@ Responsive vehicle-focused frontend built with **HTML, CSS and JavaScript**, wit
 <div align="center">
 
 <table>
+
 <tr>
+
 <td width="50%" align="center">
 
-<img
-  width="100%"
-  src="https://streak-stats.demolab.com?user=Nirodha-Sandaruwani&theme=transparent&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakLabel=C4B5FD"
-  alt="GitHub Streak"
-/>
+<img width="100%"
+src="https://streak-stats.demolab.com?user=Nirodha-Sandaruwani&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C4B5FD&sideLabels=C9D1D9&dates=8B949E"
+alt="GitHub contribution streak" />
 
 </td>
 
 <td width="50%" align="center">
 
-<img
-  width="100%"
-  src="https://github-readme-stats.vercel.app/api?username=Nirodha-Sandaruwani&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=transparent&title_color=C4B5FD&icon_color=8B5CF6"
-  alt="GitHub Stats"
-/>
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nirodha-Sandaruwani&theme=github_dark&title_color=C4B5FD&text_color=C9D1D9&bg_color=0D1117&border_color=0D1117&icon_color=7C3AED&hide_logo=true"
+alt="GitHub account statistics" />
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" align="center">
 
-<img
-  width="100%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirodha-Sandaruwani&layout=compact&langs_count=6&hide=Jupyter%20Notebook&hide_border=true&theme=transparent&title_color=C4B5FD"
-  alt="Programming Languages"
-/>
+<img width="100%"
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nirodha-Sandaruwani&layout=compact&langs_count=8&card_width=420&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9&custom_title=Programming%20Languages"
+alt="Programming languages" />
 
 </td>
 
 <td width="50%" align="center">
 
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Nirodha-Sandaruwani&bg_color=00000000&color=C4B5FD&line=8B5CF6&point=C4B5FD&hide_border=true&area=false"
-  alt="GitHub Contribution Graph"
-/>
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nirodha-Sandaruwani&theme=github_dark&title_color=C4B5FD&text_color=C9D1D9&bg_color=0D1117&border_color=0D1117&icon_color=7C3AED&chart_color=7C3AED"
+alt="GitHub profile activity summary" />
 
 </td>
+
 </tr>
+
 </table>
 
 <sub>
 Automatically generated from my public GitHub activity and repositories.
-Jupyter Notebook is excluded from the language card so the underlying programming languages are easier to see.
 </sub>
 
 </div>
